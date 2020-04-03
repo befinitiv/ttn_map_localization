@@ -14,6 +14,8 @@ dependencies:
   - branca
   - geopandas
   - netcdf4
+  - gpxpy
   - pip
   - pip:
+    - natural
     - ttn
